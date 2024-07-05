@@ -1,4 +1,4 @@
-# Hi there, I'm laab David 👋
+# Hi there, I'm laab David https://github.com/Mahiuha/Mahiuha/blob/main/assets/wave.gif
 
 ## About Me
 I'm an engineer by profession and a  passionate software developer with experience in building responsive and dynamic web applications.
