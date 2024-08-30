@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Ohimoiza1205"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Programmer;Full%20Stack%20Developer;Researching%20on%20quantum%20computing%20and its%20impact%20on%20engineering&center=true&width=380&height=45"></a>
+  <a href="https://github.com/Ohimoiza1205"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Programmer;Full%20Stack%20Developer;Researching%20on%20quantum%20computing%20and%20its%20impact%20on%20engineering&center=true&width=380&height=45"></a>
 </p>
 I'm an engineer by profession and a  passionate software developer with experience in building responsive and dynamic web applications.
 
